@@ -1,1 +1,1 @@
-# smartpython
+# Smart Python Web Page
